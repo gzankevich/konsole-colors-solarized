@@ -6,13 +6,11 @@ Developed by George Zankevich <gzankevich@gmail.com>
 Visit the [Solarized homepage]
 ------------------------------
 
-If you have come across this colorscheme via the [repository] on 
-github, visit the [Solarized homepage] or visit the main
-[Solarized repository].
+See the [Solarized homepage] for screenshots, details and colorscheme versions for Vim, Mutt, popular terminal emulators and other applications.
 
-[repository]: https://github.com/rcarmo/textwrangler-bbedit-solarized
 [Solarized homepage]:   http://ethanschoonover.com/solarized
 [Solarized repository]: https://github.com/altercation/solarized
+[Xfce4-Terminal-only repository]:  https://github.com/sgerrand/xfce4-terminal-colors-solarized
 
 Screenshots
 -----------
@@ -23,7 +21,7 @@ Screenshots
 Installation
 ------------
 
-To install these copy/link them to ~/.kde4/share/apps/konsole/.
+To install the color schemes, copy/link them to ~/.kde4/share/apps/konsole/.
 
 i.e.
 
