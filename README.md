@@ -17,8 +17,8 @@ github, visit the [Solarized homepage] or visit the main
 Screenshots
 -----------
 
-![solarized dark](https://github.com/gzankevich/konsole-colors-solarized/master/img/solarized-dark.png)
-![solarized light](https://github.com/gzankevich/konsole-colors-solarized/master/img/solarized-light.png)
+![solarized dark](https://raw.github.com/gzankevich/konsole-colors-solarized/master/img/solarized-dark.png)
+![solarized light](https://raw.github.com/gzankevich/konsole-colors-solarized/master/img/solarized-light.png)
 
 Installation
 ------------
